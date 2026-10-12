@@ -1,0 +1,7 @@
+<resources>
+    <!-- parent WAJIB memuat DayNight agar mode gelap bekerja -->
+    <style name="Theme.MyStudyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/warna_latar</item>
+        <item name="android:navigationBarColor">@color/warna_permukaan</item>
+    </style>
+</resources>

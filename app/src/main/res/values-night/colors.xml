@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warna_latar">#121212</color>
+    <color name="warna_permukaan">#1E1E1E</color>
+    <color name="warna_garis">#2D3748</color>
+
+    <color name="warna_teks_utama">#F1F5F9</color>
+    <color name="warna_teks_sekunder">#A0AEC0</color>
+
+    <color name="warna_header_mulai">#0B1220</color>
+    <color name="warna_header_akhir">#101A2E</color>
+
+    <color name="warna_aksen">#3DDC84</color>
+    <color name="warna_ikon_latar">#1F3B2E</color>
+
+    <color name="warna_tombol_reset">#FF7B72</color>
+</resources>
